@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://abstractpoo.github.io/csb-6ls3yv/static/css/main.48c2c33c.chunk.css",
+    "main.js": "https://abstractpoo.github.io/csb-6ls3yv/static/js/main.60520d64.chunk.js",
+    "main.js.map": "https://abstractpoo.github.io/csb-6ls3yv/static/js/main.60520d64.chunk.js.map",
+    "runtime-main.js": "https://abstractpoo.github.io/csb-6ls3yv/static/js/runtime-main.5ae45c84.js",
+    "runtime-main.js.map": "https://abstractpoo.github.io/csb-6ls3yv/static/js/runtime-main.5ae45c84.js.map",
+    "static/js/2.c95b1628.chunk.js": "https://abstractpoo.github.io/csb-6ls3yv/static/js/2.c95b1628.chunk.js",
+    "static/js/2.c95b1628.chunk.js.map": "https://abstractpoo.github.io/csb-6ls3yv/static/js/2.c95b1628.chunk.js.map",
+    "index.html": "https://abstractpoo.github.io/csb-6ls3yv/index.html",
+    "static/css/main.48c2c33c.chunk.css.map": "https://abstractpoo.github.io/csb-6ls3yv/static/css/main.48c2c33c.chunk.css.map",
+    "static/js/2.c95b1628.chunk.js.LICENSE.txt": "https://abstractpoo.github.io/csb-6ls3yv/static/js/2.c95b1628.chunk.js.LICENSE.txt",
+    "static/media/RandomPick.b8ca7ec7.png": "https://abstractpoo.github.io/csb-6ls3yv/static/media/RandomPick.b8ca7ec7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ae45c84.js",
+    "static/js/2.c95b1628.chunk.js",
+    "static/css/main.48c2c33c.chunk.css",
+    "static/js/main.60520d64.chunk.js"
+  ]
+}
